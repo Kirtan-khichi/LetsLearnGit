@@ -1,3 +1,3 @@
 x=10
 y=10
-sum(x+y)
+sum('the sum ids this ',x+y)
